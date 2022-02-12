@@ -1,0 +1,98 @@
+.wrapper {
+   min-height: 100%;
+   overflow: hidden;
+}
+
+* {
+   font-family: "Lato", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+}
+
+.header {
+}
+
+.header-width {
+   max-width: 390px;
+   margin: 180px auto 0;
+}
+
+.header-overtitle {
+   margin-bottom: 8px;
+}
+
+.header-overtitle h1 {
+   font-weight: 700;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   color: #1e212c;
+}
+
+.header-title {
+   margin-bottom: 40px;
+}
+
+.header-title h2 {
+   font-weight: 900;
+   font-size: 46px;
+   color: #1e212c;
+}
+
+.main {
+}
+.main-width {
+   max-width: 390px;
+   margin: 0 auto;
+}
+.main-list-block {
+   margin-bottom: 29px;
+}
+.main-list {
+}
+
+.main-list-item {
+   color: #424551;
+   background: url("../img/check.png") 0 2px / 16px 16px no-repeat;
+   min-height: 25px;
+   padding-left: 32px;
+   margin-bottom: 16px;
+}
+
+.main-list-btn {
+   max-width: 161px;
+   min-height: 44px;
+   background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+   border-radius: 4px;
+   padding: 11px 30px;
+}
+
+.main-list-btn a {
+   font-weight: 700;
+   font-size: 14px;
+   color: #fff;
+   letter-spacing: 0.5px;
+   max-width: 97px;
+}
+
+.footer {
+   margin-top: 60px;
+}
+
+.footer div {
+   max-width: 390px;
+   margin: 0 auto;
+}
+
+.footer a {
+   font-size: 35px;
+   text-decoration: underline;
+   margin-right: 60px;
+}
+
+.mbn {
+   margin-bottom: 0;
+}
+
+.mrn {
+   margin-bottom: 0;
+}

@@ -1,0 +1,151 @@
+* {
+   font-family: "Lato", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+}
+
+.wrapper {
+   min-height: 100%;
+   overflow: hidden;
+}
+
+.header-width {
+   max-width: 810px;
+   margin: 164px auto 0;
+}
+
+h1 {
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 1.3;
+   color: #1e212c;
+   max-width: 810px;
+   margin: 0 auto 26px;
+}
+
+.header-block {
+   margin-bottom: 40px;
+}
+
+.header-row {
+}
+
+.header-row .calendar {
+   display: inline-block;
+   background: url("../img/vector-1.png") 0 0 / 16px 16px no-repeat;
+   min-height: 16px;
+   padding-left: 25px;
+   color: #787a80;
+   margin-right: 24px;
+}
+
+.header-row .time {
+   display: inline-block;
+   background: url("../img/clock.png") 0 0 / 16px 16px no-repeat;
+   min-height: 16px;
+   padding-left: 25px;
+   color: #787a80;
+}
+
+.main-width {
+   max-width: 800px;
+   margin: 0 auto;
+}
+
+.main-img-block {
+   margin-bottom: 60px;
+}
+
+.vulputate {
+   margin-bottom: 24px;
+}
+
+.vulputate p {
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 1.5;
+   color: #1e212c;
+}
+
+.at-facilisi {
+   margin-bottom: 37px;
+}
+
+.amet {
+   margin-bottom: 48px;
+}
+
+.at-facilisi p,
+.amet p {
+   line-height: 1.6;
+   color: #424551;
+}
+
+.mw {
+   max-width: 810px;
+}
+
+.lorem {
+   margin-bottom: 48px;
+}
+
+.lorem p {
+   font-weight: 700;
+   color: #1e212c;
+   font-size: 20px;
+   line-height: 1.5;
+   background: url("../img/braces.png") 0 0 no-repeat;
+   padding-left: 58px;
+}
+
+.mauris {
+   margin-bottom: 24px;
+}
+
+.mauris p,
+.enim p {
+   line-height: 1.6;
+   color: #424551;
+}
+
+.main-list-block {
+   margin-bottom: 28px;
+}
+
+.main-list {
+}
+
+.main-list-item {
+   color: #424551;
+   background: url("../img/check.png") 0 0 / 16px 16px no-repeat;
+   min-height: 16px;
+   padding-left: 32px;
+   margin-bottom: 10px;
+}
+
+.enim {
+   margin-bottom: 60px;
+}
+
+.footer {
+   margin-bottom: 60px;
+}
+
+.footer div {
+   max-width: 390px;
+   margin: 0 auto;
+}
+
+.footer a {
+   font-size: 35px;
+   text-decoration: underline;
+   margin-right: 60px;
+}
+
+.mbn {
+   margin-bottom: 0;
+}
+
+.mrn {
+   margin-bottom: 0;
+}
