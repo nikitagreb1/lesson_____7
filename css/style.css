@@ -536,8 +536,9 @@ h1 {
 
 .just-bg-list-item {
    font-size: 35px;
-   background: url("../img/karp.png") 0 0/36px 36px no-repeat;
-   padding-left: 40px;
+   background: url("../img/karp.png") 0 0/63px 36px no-repeat;
+   padding-left: 63px;
+   min-height: 70px;
    margin-bottom: 15px;
    font-weight: 300;
    letter-spacing: 3px;
